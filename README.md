@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ITh1erry
 - 👀 I’m interested in music, mangas, games and web development
-- 🌱 I’m currently learning application development
+- 🌱 I’m currently working as a web developer
 - 💞️ I’m looking to collaborate on mobile apps
 
 <!---
